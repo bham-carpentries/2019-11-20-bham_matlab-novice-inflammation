@@ -1,7 +1,7 @@
 ---
 layout: lesson
 root: .
----
+---  
 
 The best way to learn how to program is to do something useful, so this
 introduction to [MATLAB](https://en.wikipedia.org/wiki/MATLAB) is built around a common scientific task: data analysis.
