@@ -64,4 +64,4 @@ To do all that, we'll have to learn a little bit about programming.
 
 > ## Follow On
 >
-> MATLAB access for the University of Birmingham: https://universityofbirmingham.service-now.com/itportal?id=uob_kb_article&sysparm_article=KB13246
+> [MATLAB access for the University of Birmingham](https://universityofbirmingham.service-now.com/itportal?id=uob_kb_article&sysparm_article=KB13246)
